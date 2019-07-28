@@ -1,0 +1,1 @@
+java -cp java-lib\*;aws-sdk-java-2.7.13.jar groovy.ui.GroovyMain  hello.groovy
